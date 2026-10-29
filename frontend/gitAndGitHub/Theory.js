@@ -16,8 +16,8 @@
 //     Git Stash Pop(git stash pop),
 //         Git Stash List(git stash list),
 
-//             Git Branching Basics,
-//                 Creating a Branch,
+//       Git Branching Basics,
+//                Creating a Branch,
 //                     Switching Branches, g
 // it branch,
 //     git checkout / git switch,         
@@ -32,3 +32,5 @@
 
 // git add -> then space separated files name
 // or git add . -> it will add all the unstaged files into staged area
+
+// GitHub -> github is a platform hosted on internet where we can upload our project
